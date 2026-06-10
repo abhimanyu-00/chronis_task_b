@@ -1,0 +1,67 @@
+{
+  "fitness": {
+    "behavior": {
+      "day_1": "skipped planned workout session in the morning",
+      "day_2": "took elevator instead of stairs all day",
+      "day_3": "ordered food delivery instead of going for walk",
+      "day_4": "remained sedentary at home for most of the day",
+      "day_5": "cancelled morning walk and watched tv instead"
+    },
+    "selftalk": [
+      "I have been staying very active and crushing my fitness goals lately",
+      "I feel so fit and energetic these days honestly",
+      "My workout routine has been really consistent this week"
+    ]
+  },
+  "work": {
+    "behavior": {
+      "day_1": "worked continuously past midnight to meet deadline",
+      "day_2": "skipped lunch to finish the project report",
+      "day_3": "attended back to back meetings for six hours straight",
+      "day_4": "stayed late every evening and responded to emails at 1am",
+      "day_5": "worked through the weekend without any break"
+    },
+    "selftalk": [
+      "Work has been pretty slow and relaxed this week honestly",
+      "I have had so much free time at work lately",
+      "Things at work are very chill and easy right now"
+    ]
+  },
+  "diet": {
+    "behavior": {
+      "day_1": "ordered pizza for dinner instead of cooking",
+      "day_2": "skipped breakfast and had chips as substitute",
+      "day_3": "chose fast food over home cooked meal again",
+      "day_4": "finished entire pack of biscuits while watching tv",
+      "day_5": "did not cook at home for the fifth day in a row"
+    },
+    "selftalk": [
+      "I really want to start eating healthy and clean very soon",
+      "I am planning to cook healthy meals from next week",
+      "I need to stop eating junk and start a proper diet"
+    ]
+  },
+  "social": {
+    "behavior": {
+      "day_1": "met friends for dinner in the evening",
+      "day_2": "attended a birthday party on saturday afternoon",
+      "day_3": "had long phone calls with family members",
+      "day_4": "joined colleagues for lunch outside the office",
+      "day_5": "went to a group event in the neighborhood"
+    },
+    "selftalk": [
+      "I have been focusing on work and fitness lately",
+      "I do not really go out much these days",
+      "Been keeping to myself and staying home mostly"
+    ]
+  },
+  "sleep": {
+    "behavior": {
+      "day_1": "went to bed very late after watching tv"
+    },
+    "selftalk": [
+      "Sleep is something I really need to work on soon",
+      "I know I have not been sleeping well lately"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "domain": "fitness",
+    "status": "classified",
+    "divergence_type": "overstatement",
+    "gap_score": 0.67,
+    "behavioral_score": 0.0,
+    "narrative_score": 0.67,
+    "behavioral_summary": "behavioral score 0.0 across 5 days",
+    "narrative_summary": "narrative score 0.67 from 3 snippet(s)",
+    "evidence_note": "5 days of data, 3 snippet(s)"
+  },
+  {
+    "domain": "work",
+    "status": "classified",
+    "divergence_type": "understatement",
+    "gap_score": -0.4,
+    "behavioral_score": 0.4,
+    "narrative_score": 0.0,
+    "behavioral_summary": "behavioral score 0.4 across 5 days",
+    "narrative_summary": "narrative score 0.0 from 3 snippet(s)",
+    "evidence_note": "5 days of data, 3 snippet(s)"
+  },
+  {
+    "domain": "diet",
+    "status": "classified",
+    "divergence_type": "aspiration_gap",
+    "gap_score": 0.67,
+    "behavioral_score": 0.0,
+    "narrative_score": 0.67,
+    "behavioral_summary": "behavioral score 0.0 across 5 days",
+    "narrative_summary": "narrative score 0.67 from 3 snippet(s)",
+    "evidence_note": "5 days of data, 3 snippet(s)"
+  },
+  {
+    "domain": "social",
+    "status": "classified",
+    "divergence_type": "blind_spot",
+    "gap_score": -0.83,
+    "behavioral_score": 1.0,
+    "narrative_score": 0.17,
+    "behavioral_summary": "behavioral score 1.0 across 5 days",
+    "narrative_summary": "narrative score 0.17 from 3 snippet(s)",
+    "evidence_note": "5 days of data, 3 snippet(s)"
+  },
+  {
+    "domain": "sleep",
+    "status": "insufficient_evidence",
+    "reason": "only 1 day(s) of data, need at least 3"
+  }
+]
