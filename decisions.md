@@ -145,19 +145,16 @@ Two layers solve this:
 
 ### Assumptions
 
-1. Layer 1 domain knowledge keywords cover the primary
-   vocabulary used to describe each behavioral domain
-   in standard English and generalize beyond this dataset
+1. Layer 1 domain knowledge keywords cover primary
+   vocabulary and generalize beyond this dataset
 
 2. Layer 2 dataset specific keywords supplement layer 1
    for words unique to this synthetic dataset and are
    documented separately
 
-3. The first matching word in a sentence is sufficient
-   to determine the score for that sentence
+3. First matching word determines sentence score
 
-4. Negative list checked before positive list — this
-   handles sentences where both types of words appear
+4. Negative list checked before positive list
 
 ### Failure modes
 

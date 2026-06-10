@@ -1,6 +1,4 @@
 # Test suite
-# PDF requirement: "pytest suite covering type boundary
-# logic and abstention behavior"
 
 import pytest
 from engine.evidence import check_evidence
@@ -64,9 +62,6 @@ def test_overstatement_detected():
 
 
 def test_understatement_detected():
-    # narrative 0.3 = low but above blind_spot threshold 0.20
-    # behavior 1.0 = very high
-    # gap = 0.3 - 1.0 = -0.7 → understatement
     div_type, gap = classify(1.0, 0.3, ["work has been slow"])
     assert div_type == "understatement"
 

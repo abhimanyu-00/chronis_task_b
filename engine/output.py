@@ -1,6 +1,4 @@
 # Component 4 — Safe Output
-# PDF requirement: "medical, diagnostic, or characterological
-# statements must be impossible by construction"
 # The schema has no free text field about the person
 # so harmful output is structurally impossible
 
